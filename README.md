@@ -8,7 +8,7 @@
 
 ### Settings
 
-For a better experience active:
+For a better experience, enable:
 
 - Colorize Brackets
 - Cursor Animation
