@@ -1,7 +1,7 @@
-id = "gruvbox"
-name = "Gruvbox Colorful"
+id = "gruvbox-glass-dark-theme"
+name = "Gruvbox Glass"
 version = "0.0.1"
 schema_version = 1
 authors = ["Giovani-Rabbit"]
-description = "A variation of Gruvbox with a more colorful style."
-repository = "https://github.com/Giovani-Rabbit/Gruvbox-Dark-Colorful"
+description = "A glass-style variant of Gruvbox."
+repository = "https://github.com/Giovani-Rabbit/Gruvbox-Glass"
